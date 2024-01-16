@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Konshtantin
-- 👀 I’m interested in Backend Node JS development
-- 🌱 I’m currently learning Node JS
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Konstantin
+- 👀 I’m interested in Backend Node JS, Businesses, StartUps
+- 🌱 I’m currently learning Node JS, Business
+- 💞️ I’m looking to collaborate on creating StartUps
 - 📫 How to reach me ...
 
 <!---
