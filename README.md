@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Konstantin
 - 👀 Backend Go developer
 - 🌱 Currently: Go, system design, LeetCode
-- 🎓 YSDA Agents Week certificate (April 2026)
+- 🎓 BMSTU '27 | YSDA Agents Week certificate (April 2026)
 - 📫 kostand.mail@gmail.com
 
 <!---
